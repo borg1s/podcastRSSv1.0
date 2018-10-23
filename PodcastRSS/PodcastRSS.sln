@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastRSS", "PodcastRSS\PodcastRSS.csproj", "{D98DEF22-6CD4-4753-BA93-C779EA528BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98DEF22-6CD4-4753-BA93-C779EA528BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98DEF22-6CD4-4753-BA93-C779EA528BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98DEF22-6CD4-4753-BA93-C779EA528BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98DEF22-6CD4-4753-BA93-C779EA528BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5164C37-35EE-4AD7-9081-E1D3CB2A901F}
+	EndGlobalSection
+EndGlobal
